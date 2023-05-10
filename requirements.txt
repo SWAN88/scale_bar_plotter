@@ -1,0 +1,9 @@
+numpy
+matplotlib
+cv2
+streamlit
+Image
+ImageDraw
+AnchoredSizeBar
+st_cropper
+streamlit_image_coordinates
