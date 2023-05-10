@@ -2,7 +2,7 @@ numpy
 matplotlib
 opencv-python
 streamlit
-PIL
+Pillow
 AnchoredSizeBar
 st_cropper
 streamlit_image_coordinates
