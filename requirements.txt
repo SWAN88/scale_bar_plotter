@@ -1,6 +1,6 @@
 numpy
 matplotlib
-cv2
+opencv-python
 streamlit
 Image
 ImageDraw
