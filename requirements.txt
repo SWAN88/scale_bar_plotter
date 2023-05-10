@@ -3,5 +3,5 @@ matplotlib
 opencv-python
 streamlit
 Pillow
-st_cropper
+streamlit_cropper
 streamlit_image_coordinates
