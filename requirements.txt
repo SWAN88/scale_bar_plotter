@@ -2,8 +2,7 @@ numpy
 matplotlib
 opencv-python
 streamlit
-Image
-ImageDraw
+PIL
 AnchoredSizeBar
 st_cropper
 streamlit_image_coordinates
