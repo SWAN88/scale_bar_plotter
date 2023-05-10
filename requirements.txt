@@ -3,6 +3,5 @@ matplotlib
 opencv-python
 streamlit
 Pillow
-AnchoredSizeBar
 st_cropper
 streamlit_image_coordinates
